@@ -1,7 +1,7 @@
 # nvim_config_1
 
 My Neovim config for Python development, built on [LazyVim](https://github.com/LazyVim/LazyVim).
-I mostly use it over SSH on remote servers, often with a coding agent editing files alongside me.
+This is set up to work with my local, up to date Linux systems while still remaining compatible with my university's systems.
 
 ## What's different from stock LazyVim
 
