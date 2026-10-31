@@ -1,4 +1,4 @@
-# nvim_config_1
+# nvim_tmux_config
 
 My Neovim config for Python development, built on [LazyVim](https://github.com/LazyVim/LazyVim).
 This is set up to work with my local, up to date Linux systems while still remaining compatible with my university's systems.
@@ -27,7 +27,7 @@ OSC 52 works through tmux too. Link or copy it to `~/.tmux.conf`.
 
 ```sh
 mv ~/.config/nvim ~/.config/nvim.bak   # if you have an existing config
-git clone git@github.com:taylorsm9/nvim_config_1.git ~/.config/nvim
+git clone git@github.com:taylorsm9/nvim_tmux_config.git ~/.config/nvim
 nvim
 ```
 
